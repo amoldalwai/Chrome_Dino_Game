@@ -21,7 +21,7 @@ A 2D game based on Chrome Dinosaur Game /T-rex game built using HTML, CSS & JS
 ![Demonstartion Video](https://j.gifs.com/D1j5OK.gif)
 
 
-## Demo Link :point_right: [https://amoldalwai.github.io/SuperMario-underwater/](https://amoldalwai.github.io/SuperMario-underwater/)
+## Demo Link :point_right: [https://amoldalwai.github.io/Chrome_Dino_Game/](https://amoldalwai.github.io/Chrome_Dino_Game/)
 
 
 
