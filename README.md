@@ -51,6 +51,5 @@ A 2D game based on Chrome Dinosaur Game /T-rex game built using HTML, CSS & JS i
 ```
 Run index.html on browser (eg. Chrome)
 ```
-
-![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red)
+![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)
 
