@@ -18,7 +18,7 @@ A 2D game based on Chrome Dinosaur Game /T-rex game built using HTML, CSS & JS i
 [Installing](#Installing)
 
 
-![Demonstartion Video](https://gifs.com/gif/lx1Onr)
+![Demonstartion Video](https://j.gifs.com/lx1Onr.gif)
 
 
 ## Demo Link :point_right: [https://amoldalwai.github.io/Chrome_Dino_Game/](https://amoldalwai.github.io/Chrome_Dino_Game/)
